@@ -1,0 +1,9 @@
+Sample interview transcript for testing.
+
+Interviewer: What has been your experience with the current system?
+
+Participant: The system works well overall, but there are areas for improvement. Navigation could be more intuitive, and I'd like to see better visualization of the data patterns.
+
+Interviewer: What features would you find most valuable?
+
+Participant: Definitely better reporting tools and the ability to customize the analysis parameters. Also, keyboard shortcuts would really speed up my workflow.

@@ -1,0 +1,16 @@
+Interview 1 - User Research Session
+
+Date: 2024-01-15
+Participant: User A
+
+Interviewer: Thank you for participating. Can you describe your typical workflow?
+
+User A: I usually start by uploading multiple interview transcripts, then I configure the analysis based on what insights I'm looking for. The current process takes too long and the interface is confusing.
+
+Interviewer: What specific improvements would help?
+
+User A: A clearer step-by-step process would be great. Also, being able to see progress in real-time and having better visualization of the themes would really help.
+
+Interviewer: Any other pain points?
+
+User A: Yes, the reporting feature needs work. I often need to export to different formats for different stakeholders, and that's currently cumbersome.

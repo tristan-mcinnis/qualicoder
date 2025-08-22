@@ -1,0 +1,16 @@
+Interview 2 - User Research Session
+
+Date: 2024-01-16
+Participant: User B
+
+Interviewer: How do you currently analyze qualitative data?
+
+User B: I use various tools, but none of them really meet all my needs. I often have to switch between different applications to get the job done.
+
+Interviewer: What would an ideal solution look like?
+
+User B: Something that's fast, intuitive, and provides comprehensive analysis. I need to identify themes quickly, see patterns across multiple interviews, and generate professional reports.
+
+Interviewer: What about collaboration features?
+
+User B: That would be amazing. Being able to share insights with my team and get their input would streamline our research process significantly.
