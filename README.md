@@ -219,7 +219,7 @@ CHUNK_OVERLAP=256
 ### Different OpenAI Model
 
 ```
-OPENAI_MODEL=gpt-3.5-turbo
+OPENAI_MODEL=gpt-5-nano
 ```
 
 ## Troubleshooting
